@@ -24,7 +24,7 @@ Neste TP, você tem liberdade para criar quantas superfícies achar necessárias
 
 Adicione ao seu relatório feito no TP2 informações mais detalhadas sobre o entregável. Você pode adicionar as informações da maneira que achar mais interessante. No entanto, existem itens *obrigatórios*:
 
-Descreva de maneira detalhada o entregável.
-Descreva de maneira teórica (pode utilizar exemplos) as diferenças de arquitetura de CPU.
-Descreva de maneira teórica o que é a palavra do processador.
-Descreva de maneira teórica a diferença entre os núcleos físicos e lógicos. E em que influencia no processamento a utilização de núcleos lógicos.
+1. Descreva de maneira detalhada o entregável.
+1. Descreva de maneira teórica (pode utilizar exemplos) as diferenças de arquitetura de CPU.
+1. Descreva de maneira teórica o que é a palavra do processador.
+1. Descreva de maneira teórica a diferença entre os núcleos físicos e lógicos. E em que influencia no processamento a utilização de núcleos lógicos.
